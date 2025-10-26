@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trình Kiểm Tra Trái Cây Bằng AI",
+  "description": "Một ứng dụng sử dụng AI để phân tích trái cây từ hình ảnh. Tải ảnh lên hoặc sử dụng webcam để nhận phân tích tức thì về loại và tình trạng của trái cây (ví dụ: chín, chưa chín, hoặc hỏng).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
